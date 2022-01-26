@@ -1,1 +1,2 @@
 # izmeginajumss
+mans pirmais repozitorijs
